@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PeopleInspection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\models\\createpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\models\\createpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\interfaces\\ipeoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\interfaces\\ipeoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\models\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\models\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\peopleinspection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\peopleinspection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\views\\peopleinspection\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\views\\peopleinspection\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\views\\peopleinspection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\views\\peopleinspection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\views\\peopleinspection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\views\\peopleinspection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\controllers\\peopleinscpection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\controllers\\peopleinscpection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\models\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\models\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\models\\peoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\models\\peoplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|d:\\peopleinspection\\peopleinspection\\interfaces\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74E4B0A-DA95-4A42-9D08-61C418486DA6}|PeopleInspection\\PeopleInspection.csproj|solutionrelative:peopleinspection\\interfaces\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Models\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Models\\SearchViewModel.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Models\\SearchViewModel.cs",
+              "RelativeToolTip": "PeopleInspection\\Models\\SearchViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:54:10.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Views\\PeopleInspection\\Details.cshtml",
+              "RelativeDocumentMoniker": "PeopleInspection\\Views\\PeopleInspection\\Details.cshtml",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Views\\PeopleInspection\\Details.cshtml",
+              "RelativeToolTip": "PeopleInspection\\Views\\PeopleInspection\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T14:14:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Views\\PeopleInspection\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeopleInspection\\Views\\PeopleInspection\\Create.cshtml",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Views\\PeopleInspection\\Create.cshtml",
+              "RelativeToolTip": "PeopleInspection\\Views\\PeopleInspection\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T14:14:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPeopleRepo.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Interfaces\\IPeopleRepo.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Interfaces\\IPeopleRepo.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Interfaces\\IPeopleRepo.cs",
+              "RelativeToolTip": "PeopleInspection\\Interfaces\\IPeopleRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:58:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePersonViewModel.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Models\\CreatePersonViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Models\\CreatePersonViewModel.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Models\\CreatePersonViewModel.cs",
+              "RelativeToolTip": "PeopleInspection\\Models\\CreatePersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:55:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeopleInspection.csproj",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\PeopleInspection.csproj",
+              "RelativeDocumentMoniker": "PeopleInspection\\PeopleInspection.csproj",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\PeopleInspection.csproj",
+              "RelativeToolTip": "PeopleInspection\\PeopleInspection.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T14:03:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Models\\Person.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Models\\Person.cs",
+              "RelativeToolTip": "PeopleInspection\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:52:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Program.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Program.cs",
+              "RelativeToolTip": "PeopleInspection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:01:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Views\\PeopleInspection\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleInspection\\Views\\PeopleInspection\\Index.cshtml",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Views\\PeopleInspection\\Index.cshtml",
+              "RelativeToolTip": "PeopleInspection\\Views\\PeopleInspection\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T14:13:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeopleInscpection.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Controllers\\PeopleInscpection.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Controllers\\PeopleInscpection.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Controllers\\PeopleInscpection.cs",
+              "RelativeToolTip": "PeopleInspection\\Controllers\\PeopleInscpection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:04:54.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeopleService.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Models\\PeopleService.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Models\\PeopleService.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Models\\PeopleService.cs",
+              "RelativeToolTip": "PeopleInspection\\Models\\PeopleService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvzAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:01:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeopleRepo.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Models\\PeopleRepo.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Models\\PeopleRepo.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Models\\PeopleRepo.cs",
+              "RelativeToolTip": "PeopleInspection\\Models\\PeopleRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:00:48.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPeopleService.cs",
+              "DocumentMoniker": "D:\\PeopleInspection\\PeopleInspection\\Interfaces\\IPeopleService.cs",
+              "RelativeDocumentMoniker": "PeopleInspection\\Interfaces\\IPeopleService.cs",
+              "ToolTip": "D:\\PeopleInspection\\PeopleInspection\\Interfaces\\IPeopleService.cs",
+              "RelativeToolTip": "PeopleInspection\\Interfaces\\IPeopleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:59:13.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

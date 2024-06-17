@@ -1,0 +1,39 @@
+﻿@model YourNamespace.Models.SearchViewModel
+
+@{
+    ViewData["Title"] = "People List";
+}
+
+<h1>People</h1>
+
+@using (Html.BeginForm("Index", "PeopleInspection", FormMethod.Get))
+{
+    <p>
+        Search: <input type="text" name="searchString" value="@Model.SearchString" />
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model.People)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.City</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@person.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@person.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
